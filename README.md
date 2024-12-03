@@ -70,9 +70,6 @@ npm start
 2. Use the controls to mute/unmute your microphone and enable/disable your camera during the call.
 3. Enjoy real-time video communication with your friends and colleagues!
 
-## Deployment
-
-- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url](https://yourvideoshare.netlify.app/).
 
 - **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url](https://video-call-server-gm7i.onrender.com).
 
@@ -85,14 +82,4 @@ We welcome contributions from the community. If you'd like to contribute to the 
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request to the `master` branch of this repository.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to contact us at [simranlotey01@gmail.com](mailto:simranlotey01@gmail.com).
-
-Thank you for using the React Video Call App!
-
-
-
-
 
