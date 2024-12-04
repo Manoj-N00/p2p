@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/fc72dd41-cab7-464d-bd13-5c2d54216455)
+
+
+
 # React Video Call
 
 Welcome to the React Video Call App, a real-time video calling application that allows users to connect with each other, providing the ability to initiate video calls and control their audio and video settings.
