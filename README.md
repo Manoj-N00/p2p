@@ -86,4 +86,5 @@ We welcome contributions from the community. If you'd like to contribute to the 
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request to the `master` branch of this repository.
+6. email:manojnaikj@gmail.com
 
